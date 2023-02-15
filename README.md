@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi ther 👋
 
 <!--
 **aaren-aras/aaren-aras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
