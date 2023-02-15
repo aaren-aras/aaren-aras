@@ -1,6 +1,9 @@
 # Hello, World! 🌎
 
-`Code text` 
+**`WIP`** 
+---
+
+<!-- Chaos engineering, custom gifs, open source contributer, professional yak shaver, cloud tech  -->
 
 
 <!--
