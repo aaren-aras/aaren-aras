@@ -23,7 +23,14 @@ Here are some ideas to get you started:
 -->
 
 ### Stats
+---
+
 ![Aaren's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaren-aras&show_icons=true&theme=radical)
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=aaren-aras&layout=compact&theme=merko" target="_blank">
+  </a>
+</p>
 
 
 👀 I’m interested in all things engineering design and neuroscience-related
