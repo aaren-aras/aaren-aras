@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=aaren-aras&layout=compact&theme=merko" target="_blank">
+       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaren-aras&layout=compact&theme=merko">
   </a>
 </p>
 
