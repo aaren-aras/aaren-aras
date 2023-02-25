@@ -1,6 +1,5 @@
 # Hello, World! 🌎
 
----
 
 # **`WIP`**
 
@@ -10,7 +9,6 @@ https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61
 
 ## Stats
 
----
 
 <!-- Credits: https://github.com/anuraghazra/github-readme-stats -->
 
