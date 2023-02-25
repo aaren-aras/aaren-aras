@@ -11,6 +11,9 @@ https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61
 
 <!-- Credits: https://github.com/anuraghazra/github-readme-stats -->
 
+![Aaren's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaren-aras&show_icons=true&theme=radical)
+
+
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=aaren-aras&layout=compact&theme=merko" target="_blank">
        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaren-aras&layout=compact&theme=merko">
   </a>
