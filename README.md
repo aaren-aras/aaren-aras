@@ -11,7 +11,7 @@ https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61
 
 <!-- Credits: https://github.com/anuraghazra/github-readme-stats -->
 
-![Aaren's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaren-aras&show_icons=true&theme=radical)
+![Aaren's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaren-aras&show_icons=true&theme=radical&count_private=true)
 
 
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=aaren-aras&layout=compact&theme=merko" target="_blank">
@@ -22,6 +22,8 @@ https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61
 🌱 I’m currently learning C++ and python, and jAvAscRipt
 💞️ I’m looking to collaborate on some fun side projects and hackathons
 📫 Feel free to contact me through my LinkedIn (linkedin.com/in/aaren-aras/) or e-mail (aaren.aras@uwaterloo.ca)
+
+<!--
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
@@ -60,7 +62,6 @@ https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][youtube]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][youtube]
 
-<!--
 1. About me
 2. Tech stack
 3. Learning Queue
