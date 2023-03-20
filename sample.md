@@ -10,7 +10,7 @@ A few dependencies need to be available in your development system. Please verif
 - Node v12+
 - Yarn v1.22.5+
 - Docker v19+
-
+nka
 Open a terminal and run the following commands:
 
 ```bash
