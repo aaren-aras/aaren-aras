@@ -1,13 +1,18 @@
 <!-- Custom "Hello, World!" Banner (Made with Canva) -->
 <img src="hello-world-banner.png" alt="'Hello, World!' Banner">
 
-<!-- About Me -->
-
 ```html
-<h1></h1>
+<title>About Me</title>
+<ul>
+  <li>Enjoyer of chaos engineering</li>
+  <li>Doesn't like pineapple on pizza</li>
+  <li>Can't come up with more points</li>
+  <li>Feels obliged to include an "About Me" section</li>
+  <li>Wonders if his GitHub should be as professional as his LinkedIn</li>
+</ul>
 ```
 
-## **`WIP`**
+## **`About Me`**
 
 <!-- CSS code explaining more specifics, adding "flavour" and "styling" to simple and bland HTML stuff from top -->
 
