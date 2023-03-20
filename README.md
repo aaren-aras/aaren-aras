@@ -1,9 +1,7 @@
-# Hello, World! 🌎
-
 <!-- Custom "Hello, World!" Banner (Made with Canva) -->
 <img src="hello-world-banner.png" alt="'Hello, World!' Banner">
 
-<!-- HTML code explaining basics, core stuff -->
+<!-- About Me -->
 
 ```html
 <h1></h1>
