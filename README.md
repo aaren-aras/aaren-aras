@@ -11,7 +11,7 @@
 </ul>
 ```
 
-## **`About Me`**
+<!-- ## **`About Me`** -->
 
 <!-- CSS code explaining more specifics, adding "flavour" and "styling" to simple and bland HTML stuff from top -->
 
@@ -22,10 +22,10 @@
 <!-- Chaos engineering, custom gifs, open source contributer, professional yak shaver, cloud tech  -->
 
 
-👀 I’m interested in all things engineering design and neuroscience-related
+<!-- 👀 I’m interested in all things engineering design and neuroscience-related
 🌱 I’m currently learning C++ and python, and jAvAscRipt
 💞️ I’m looking to collaborate on some fun side projects and hackathons
-📫 Feel free to contact me through my LinkedIn (linkedin.com/in/aaren-aras/) or e-mail (aaren.aras@uwaterloo.ca)
+📫 Feel free to contact me through my LinkedIn (linkedin.com/in/aaren-aras/) or e-mail (aaren.aras@uwaterloo.ca) -->
 
 <!--
 
