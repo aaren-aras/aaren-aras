@@ -8,7 +8,7 @@
   <li>Doesn't like pineapple on pizza</li>
   <li>Can't come up with more points</li>
   <li>Feels obliged to include an "About Me" section</li>
-  <li>Wonders if his GitHub should be as professional as his LinkedIn</li>
+  <li>Wonders if his **GitHub** should be as professional as his LinkedIn</li>
 </ul>
 ```
 
