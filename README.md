@@ -13,7 +13,11 @@
 </ul>
 ```
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+<body>
 <i class="devicon-html5-plain-wordmark colored"></i>
+</body>
 
 <!-- CSS code explaining more specifics, adding "flavour" and "styling" to simple and bland HTML stuff from top
 style classes from above html!!! -->
@@ -56,8 +60,8 @@ condensed with the side chevron arrows
 <!-- Chaos engineering, custom gifs, open source contributer, professional yak shaver, cloud tech  -->
 
 <!-- 1. About me (HTML)
-2. Tech stack (CSS)
-3. Learning Queue (JavaScript?)
+1. Tech stack (CSS)
+2. Learning Queue (JavaScript?)
 4. Contact info (github activity overview design?) -->
 
 <!-- incorporate github activity overview axes somehow -->
