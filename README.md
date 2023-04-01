@@ -4,16 +4,50 @@
 ```html
 <h2>About Me</h2>
 <ul>
-  <li>Enjoyer of <span style="background-color: orange; color: red">chaos</span> engineering</li>
-  <li>Doesn't like pineapple on pizza</li>
+  <li>Enjoyer of <span class="chaos">chaos</span> engineering</li>
+  <li class="death-to-pineapples">Doesn't like pineapple on pizza</li>
   <li class="uncreative">Can't come up with more points</li>
-  <li class="self-referential__humor">Feels obliged to include an "About Me" section</li>
+  <li class="self-referential__humor">
+    Feels obliged to include an "About Me" section
+  </li>
 </ul>
+
+<i class="devicon-html5-plain-wordmark colored"></i>
 ```
 
-<!-- ## **`About Me`** -->
+<!-- CSS code explaining more specifics, adding "flavour" and "styling" to simple and bland HTML stuff from top
+style classes from above html!!! -->
 
-<!-- CSS code explaining more specifics, adding "flavour" and "styling" to simple and bland HTML stuff from top -->
+```css
+.chaos {
+  background-color: orange;
+  color: red;
+}
+
+.death-to-pineapples {
+}
+
+.uncreative {
+}
+
+.self-referential__humor {
+}
+```
+
+```js
+
+```
+
+<!-- Custom Contact Info Banner (Made with Canva) -->
+<img src="" alt="Contact Info Banner">
+
+<!-- todo:
+ - move span styling to css section?? use <style> and <script> or "separate files"???
+ - add doctype short form so its "valid" html?? "!..." so like
+condensed with the side chevron arrows
+ - add <link>s to css and js sections, -->
+
+<!-- ## **`About Me`** -->
 
 <!-- look to external css? -->
 
@@ -21,27 +55,14 @@
 
 <!-- Chaos engineering, custom gifs, open source contributer, professional yak shaver, cloud tech  -->
 
+1. About me (HTML)
+2. Tech stack (CSS)
+3. Learning Queue (JavaScript?)
+4. Contact info (github activity overview design?)
 
-<!-- 👀 I’m interested in all things engineering design and neuroscience-related
-🌱 I’m currently learning C++ and python, and jAvAscRipt
-💞️ I’m looking to collaborate on some fun side projects and hackathons
-📫 Feel free to contact me through my LinkedIn (linkedin.com/in/aaren-aras/) or e-mail (aaren.aras@uwaterloo.ca) -->
+<!-- incorporate github activity overview axes somehow -->
 
 <!--
-
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
-
-
-1. About me
-2. Tech stack
-3. Learning Queue
-
-4. 5. Contact info
-
-
-
-
-
 **aaren-aras/aaren-aras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
