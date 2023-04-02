@@ -12,10 +12,8 @@
     height: 45px;
   }
 ">
-
-</div>
-
 ![vscode-icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg)
+</div>
 
 <!--
 <div style="
