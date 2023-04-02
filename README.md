@@ -17,8 +17,10 @@
 </ul>
 ```
 
-<img style="width: 45px; height: 45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-<img style="width: 45px; height: 45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<div style="display: inline-block">
+  <img style="width: 45px; height: 45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img style="width: 45px; height: 45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+</div>
 
 ```css
 .about-me {
