@@ -16,7 +16,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 
-<i class="devicon-html5-plain-wordmark colored"></i>
+<i style="width: 30px; height: 30px"class="devicon-html5-plain-wordmark colored"></i>
 
 <!-- CSS code explaining more specifics, adding "flavour" and "styling" to simple and bland HTML stuff from top
 style classes from above html!!! -->
