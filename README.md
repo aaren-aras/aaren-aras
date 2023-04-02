@@ -17,7 +17,7 @@
 </ul>
 ```
 
-<div style="display: inline-block">
+<div style="display: inline-block; margin: 10px">
   <img style="width: 45px; height: 45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img style="width: 45px; height: 45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div>
