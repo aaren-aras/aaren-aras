@@ -1,19 +1,16 @@
 <!-- Credits to Devicon for icons used throughout! -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
+<link rel="stylesheet" href="index.css">
+
 <!-- Custom "Hello, World!" Banner (Made with Canva) -->
 <img src="hello-world-banner.png" alt="'Hello, World!' Banner">
 
 <!-- "Base"/HTML-related Stack -->
 
-<div style="
-  img[alt$="-icon"] {
-    width: 45px;
-    height: 45px;
-  }
-">
-![vscode-icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg)
-</div>
+![vscode-icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg#icon)
+
+![bash-icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg#icon)
 
 <!--
 <div style="
