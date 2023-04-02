@@ -1,4 +1,4 @@
-<!-- Credits to Devicon for icons used throughout! -->
+<!-- Credits to Devicon (https://devicon.dev/) for icons used throughout! -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <!-- Custom "Hello, World!" Banner (Made with Canva) -->
@@ -6,10 +6,10 @@
 
 <!-- "Base"/HTML-related Stack: VS Code, Bash, HTML, Git, Markdown -->
 <div align="center">
-  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   &nbsp; &nbsp;
 
-  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   &nbsp; &nbsp;
 
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
@@ -38,17 +38,17 @@
 
 <br>
 
-<!-- "Styling"/CSS-related Stack: -->
-<div style="display: inline-block">
-  <img 
-    style="width: 45px; height: 45px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" 
-  />
-  <img 
-    style="width: 45px; height: 45px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" 
-  />
+<!-- "Styling"/CSS-related Stack: Draw.io, CSS, Sass -->
+<div align="center">
+  <!-- To-DO: Add Draw.io logo (?) -->
+
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+  &nbsp; &nbsp;
+
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  &nbsp; &nbsp;
 </div>
+
 <br>
 
 ```css
@@ -78,57 +78,37 @@
 
 <br>
 
-<!-- "Programming"/JavaScript-related Stack: -->
+<!-- "Programming"/JavaScript-related Stack: C++, C#, Python, JavaScript -->
+<div align="center">
+  
+  <!-- TO-DO: Add C++ and C# icons? -->
+  
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  &nbsp; &nbsp;
+
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  &nbsp; &nbsp;
+</div>
+
+<br>
 
 ```js
+wip!
 
 ```
 
 <br>
 
-<!-- "DevOps"/Miscellaneous Stack: -->
+<!-- Miscellaneous Stack: ??? -->
 
 <!-- Custom Contact Info Banner (Made with Canva) -->
 <img src="contact-info-design.png" alt="Contact Info Banner">
 
-<!-- ICONS
-HTML-related Skills (Base):
-  VS Code, Bash, Git, Markdown, HTML
-CSS-related Skills (Styling):
-  CSS, Sass, ...
-JavaScript-related Skills (Programming):
-  JS, ...
-
-html-related and base skills:
-css-related and styling skills: css, sass
-javascript-related skills: js, other languages, frameworks
-
-
--->
-
 <!-- CSS code explaining more specifics, adding "flavour" and "styling" to simple and bland HTML stuff from top
 style classes from above html!!! -->
-
-<!-- JavaScript to explain functionality (projects, future improvements,
-learning)-->
-
-<!-- todo:
- - move span styling to css section?? use <style> and <script> or "separate files"???
- - add doctype short form so its "valid" html?? "!..." so like
-condensed with the side chevron arrows
- - add <link>s to css and js sections, -->
-
-<!-- ## **`About Me`** -->
-
-<!-- look to external css? -->
-
-<!-- https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61e8e1f9fb99da3d922a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465 -->
-
+<!-- JavaScript to explain functionality (projects, future improvements, learning)-->
 <!-- Chaos engineering, custom gifs, open source contributer, professional yak shaver, cloud tech  -->
-
 <!-- 1. About me (HTML)
-1. Tech stack (CSS)
-2. Learning Queue (JavaScript?)
-3. Contact info (github activity overview design?) -->
-
-<!-- incorporate github activity overview axes somehow -->
+2. Tech stack (CSS)
+3. Learning Queue (JavaScript?)
+4. Contact info (github activity overview design?) -->
