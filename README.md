@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="README.css">
-
 <!-- Credits to Devicon for icons used throughout! -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
@@ -12,23 +10,21 @@
   flex-direction: row;
   justify-content: space-evenly; 
   align-items: center;
-  width: 45px;
-  height: 45px;
 ">
   <!-- VS Code-->
   <img width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 
   <!-- Bash -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
+  <img width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
 
   <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+  <img width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
 
   <!-- Markdown-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+  <img width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 
   <!-- HTML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 </div>
 
 ```html
