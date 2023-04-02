@@ -16,8 +16,8 @@ img {
   flex-direction: row;
   justify-content: space-evenly; 
   align-items: center;
-  width: 45px;
-  height: 45px;
+  width: 45px !important;
+  height: 45px !important;
 ">
   <!-- VS Code-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
