@@ -5,6 +5,7 @@
 
 <!-- Custom "Hello, World!" Banner (Made with Canva) -->
 <img src="hello-world-banner.png" alt="'Hello, World!' Banner">
+<br>
 
 <!-- "Base"/HTML-related Stack -->
 <div align="center">
@@ -23,6 +24,7 @@
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   &nbsp; &nbsp;
 </div>
+<br>
 
 ```html
 <h2 class="about-me">About Me</h2>
