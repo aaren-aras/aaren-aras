@@ -5,7 +5,7 @@
 <img src="hello-world-banner.png" alt="'Hello, World!' Banner">
 
 <!-- "Base"/HTML-related Stack: VS Code, Git, HTML, Markdown, Bash -->
-<div align="center">
+<div align="center" style="background-color: blue">
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   &nbsp; &nbsp;
 
