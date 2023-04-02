@@ -18,7 +18,7 @@
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
   &nbsp; &nbsp;
 
-  <img width="45px" color="white" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/416px-Markdown-mark.svg.png?20190322184628">
+  <img width="45px" color="white" src="https://d33wubrfki0l68.cloudfront.net/f1f475a6fda1c2c4be4cac04033db5c3293032b4/513a4/assets/images/markdown-mark-white.svg">
   &nbsp; &nbsp;
 </div>
 
