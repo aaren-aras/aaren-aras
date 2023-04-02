@@ -5,7 +5,7 @@
 <img src="hello-world-banner.png" alt="'Hello, World!' Banner">
 
 <!-- "Base"/HTML-related Stack: VS Code, Bash, HTML, Git, Markdown -->
-<div align="center" style="opacity: 0.5">
+<div align="center">
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
   &nbsp; &nbsp;
 
@@ -18,7 +18,7 @@
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
   &nbsp; &nbsp;
 
-  <img width="45px" color="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
+  <img width="45px" color="white" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/416px-Markdown-mark.svg.png?20190322184628">
   &nbsp; &nbsp;
 </div>
 
