@@ -1,6 +1,0 @@
-img[src*="#icon"] {
-  display: flex;
-  flex-direction: row;
-  width: 45px;
-  height: 45px;
-}
