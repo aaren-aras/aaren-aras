@@ -6,10 +6,10 @@
 
 <!-- "Base"/HTML-related Stack: VS Code, Bash, HTML, Git, Markdown -->
 <div align="center">
-  <img width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   &nbsp; &nbsp;
 
-  <img width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   &nbsp; &nbsp;
 
   <img width="57px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
