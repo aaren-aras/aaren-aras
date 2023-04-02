@@ -1,11 +1,8 @@
 <!-- Credits to Devicon for icons used throughout! -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<link rel="stylesheet" href="index.css">
-
 <!-- Custom "Hello, World!" Banner (Made with Canva) -->
 <img src="hello-world-banner.png" alt="'Hello, World!' Banner">
-<br>
 
 <!-- "Base"/HTML-related Stack -->
 <div align="center">
@@ -37,6 +34,8 @@
   </li>
 </ul>
 ```
+
+<br>
 
 <!-- "Styling"/CSS-related Stack: -->
 <div style="display: inline-block">
@@ -76,9 +75,13 @@
 }
 ```
 
+<br>
+
 ```js
 
 ```
+
+<br>
 
 <!-- Custom Contact Info Banner (Made with Canva) -->
 <img src="contact-info-design.png" alt="Contact Info Banner">
