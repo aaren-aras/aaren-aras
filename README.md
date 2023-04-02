@@ -7,16 +7,21 @@
 <img src="hello-world-banner.png" alt="'Hello, World!' Banner">
 
 <!-- "Base"/HTML-related Stack -->
-<div style="display: inline-block">
-  <img width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+<div align="center">
+  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
+  &nbsp; &nbsp;
+  
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
+  &nbsp; &nbsp;
 
-  <img width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+  &nbsp; &nbsp;
 
-  <img width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
+  &nbsp; &nbsp;
 
-  <img width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-
-  <img width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  &nbsp; &nbsp;
 </div>
 
 ```html
