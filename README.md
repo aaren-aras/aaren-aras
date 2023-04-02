@@ -36,8 +36,6 @@
 </ul>
 ```
 
-<br>
-
 <!-- "Styling"/CSS-related Stack: Draw.io, CSS, Sass -->
 <div align="center">
   <!-- To-DO: Add Draw.io logo (?) -->
@@ -48,7 +46,6 @@
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   &nbsp; &nbsp;
 </div>
-
 <br>
 
 ```css
@@ -76,8 +73,6 @@
 }
 ```
 
-<br>
-
 <!-- "Programming"/JavaScript-related Stack: C++, C#, Python, JavaScript -->
 <div align="center">
   
@@ -89,7 +84,6 @@
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   &nbsp; &nbsp;
 </div>
-
 <br>
 
 ```js
@@ -97,9 +91,11 @@ wip!
 
 ```
 
-<br>
-
 <!-- Miscellaneous Stack: ??? -->
+<div align="center">
+
+</div>
+<br>
 
 <!-- Custom Contact Info Banner (Made with Canva) -->
 <img src="contact-info-design.png" alt="Contact Info Banner">
@@ -109,6 +105,6 @@ style classes from above html!!! -->
 <!-- JavaScript to explain functionality (projects, future improvements, learning)-->
 <!-- Chaos engineering, custom gifs, open source contributer, professional yak shaver, cloud tech  -->
 <!-- 1. About me (HTML)
-2. Tech stack (CSS)
-3. Learning Queue (JavaScript?)
-4. Contact info (github activity overview design?) -->
+1. Tech stack (CSS)
+2. Learning Queue (JavaScript?)
+3. Contact info (github activity overview design?) -->
