@@ -1,28 +1,38 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 <!-- Custom "Hello, World!" Banner (Made with Canva) -->
 <img src="hello-world-banner.png" alt="'Hello, World!' Banner">
 
+<img style="width: 45px; height: 45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+
 ```html
-<h2>About Me</h2>
+<h2 class="about-me">About Me</h2>
 <ul>
   <li>Enjoyer of <span class="chaos">chaos</span> engineering</li>
   <li class="death-to-pineapples">Doesn't like pineapple on pizza</li>
   <li class="uncreative">Can't come up with more points</li>
-  <li class="self-referential__humor">
+  <li class="self-ref__humor">
     Feels obliged to include an "About Me" section
   </li>
 </ul>
 ```
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<img style="width: 30px; height: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-
-<!-- CSS code explaining more specifics, adding "flavour" and "styling" to simple and bland HTML stuff from top
-style classes from above html!!! -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 
 ```css
+.about-me {
+  /* Open to new opportunities */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
 .chaos {
   background-color: orange;
   color: red;
+  sdsd: sdfs;
 }
 
 .death-to-pineapples {
@@ -31,7 +41,7 @@ style classes from above html!!! -->
 .uncreative {
 }
 
-.self-referential__humor {
+.self-ref__humor {
 }
 ```
 
@@ -40,7 +50,13 @@ style classes from above html!!! -->
 ```
 
 <!-- Custom Contact Info Banner (Made with Canva) -->
-<img src="" alt="Contact Info Banner">
+<img src="contact-info-design.png" alt="Contact Info Banner">
+
+<!-- CSS code explaining more specifics, adding "flavour" and "styling" to simple and bland HTML stuff from top
+style classes from above html!!! -->
+
+<!-- JavaScript to explain functionality (projects, future improvements,
+learning)-->
 
 <!-- todo:
  - move span styling to css section?? use <style> and <script> or "separate files"???
@@ -62,17 +78,3 @@ condensed with the side chevron arrows
 3. Contact info (github activity overview design?) -->
 
 <!-- incorporate github activity overview axes somehow -->
-
-<!--
-**aaren-aras/aaren-aras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ..
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
