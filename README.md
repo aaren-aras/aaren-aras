@@ -4,7 +4,7 @@
 <!-- Custom "Hello, World!" Banner (Made with Canva) -->
 <img src="hello-world-banner.png" alt="'Hello, World!' Banner">
 
-<!-- "Base"/HTML-related Stack: VS Code, Bash, HTML, Git, Markdown -->
+<!-- "Base"/HTML-related Stack: VS Code, Git, HTML, Markdown, Bash -->
 <div align="center">
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   &nbsp; &nbsp;
@@ -15,7 +15,7 @@
   <img width="57px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   &nbsp; &nbsp;
 
-  <img width="57px" color="white" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Antu_text-x-markdown.svg/1024px-Antu_text-x-markdown.svg.png">
+  <img width="59px" color="white" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Antu_text-x-markdown.svg/1024px-Antu_text-x-markdown.svg.png">
   &nbsp; &nbsp;
 
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
