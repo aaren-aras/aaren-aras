@@ -4,17 +4,14 @@
 <!-- Custom "Hello, World!" Banner (Made with Canva) -->
 <img src="hello-world-banner.png" alt="'Hello, World!' Banner">
 
+![VSCode Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg)
+
 <!-- "Base"/HTML-related Stack -->
 <div style="
-  display: flex;
-  flex-direction: row;
-  justify-content: space-evenly; 
-  align-items: center;
-  width: 45px;
-  height: 45px;
+  align: center;
 ">
   <!-- VS Code-->
-  ![VSCode Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 
   <!-- Bash -->
   <img width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
