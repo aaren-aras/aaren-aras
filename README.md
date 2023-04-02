@@ -10,9 +10,11 @@
   flex-direction: row;
   justify-content: space-evenly; 
   align-items: center;
+  width: 45px;
+  height: 45px;
 ">
   <!-- VS Code-->
-  <img width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+  ![VSCode Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg)
 
   <!-- Bash -->
   <img width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
