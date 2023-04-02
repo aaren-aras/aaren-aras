@@ -3,7 +3,30 @@
 <!-- Custom "Hello, World!" Banner (Made with Canva) -->
 <img src="hello-world-banner.png" alt="'Hello, World!' Banner">
 
-<img style="width: 45px; height: 45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+<!-- "Base"/HTML-related Stack -->
+<div style="
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly; 
+  align-items: center;
+  width: 45px;
+  height: 45px;
+">
+  <!-- VS Code-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+
+  <!-- Bash -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
+
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+
+  <!-- Markdown-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+</div>
 
 ```html
 <h2 class="about-me">About Me</h2>
@@ -17,9 +40,16 @@
 </ul>
 ```
 
-<div style="display: inline-block; margin-right: 10px">
-  <img style="width: 45px; height: 45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img style="width: 45px; height: 45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<!-- "Styling"/CSS-related Stack: -->
+<div style="display: inline-block">
+  <img 
+    style="width: 45px; height: 45px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" 
+  />
+  <img 
+    style="width: 45px; height: 45px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" 
+  />
 </div>
 <br>
 
@@ -54,6 +84,21 @@
 
 <!-- Custom Contact Info Banner (Made with Canva) -->
 <img src="contact-info-design.png" alt="Contact Info Banner">
+
+<!-- ICONS
+HTML-related Skills (Base):
+  VS Code, Bash, Git, Markdown, HTML
+CSS-related Skills (Styling):
+  CSS, Sass, ...
+JavaScript-related Skills (Programming):
+  JS, ...
+
+html-related and base skills:
+css-related and styling skills: css, sass
+javascript-related skills: js, other languages, frameworks
+
+
+-->
 
 <!-- CSS code explaining more specifics, adding "flavour" and "styling" to simple and bland HTML stuff from top
 style classes from above html!!! -->
