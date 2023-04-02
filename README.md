@@ -25,14 +25,17 @@
 <br>
 
 ```html
-<h2 class="about-me">About Me</h2>
+<h2>About Me</h2>
 <ul>
-  <li>Enjoyer of <span class="chaos">chaos</span> engineering</li>
-  <li class="death-to-pineapples">Doesn't like pineapple on pizza</li>
-  <li class="uncreative">Can't come up with more points</li>
+  <li class="bio">Loves building and breaking stuff in equal measure!</li>
+  <li class="tech-stack">???</li>
+  <li class="learning-queue">???</li>
+  <li class="death-to-pineapples">Despises pineapple on pizza</li>
+
+  <!-- <li class="uncreative">Can't come up with more points</li>
   <li class="self-ref__humor">
     Feels obliged to include an "About Me" section
-  </li>
+  </li> -->
 </ul>
 ```
 
@@ -49,27 +52,18 @@
 <br>
 
 ```css
-.about-me {
-  /* Open to new opportunities */
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
+.bio {
+  /* Open to new opportunities? */
+  /* display: flex; */
 }
 
-.chaos {
-  background-color: orange;
-  color: red;
-  sdsd: sdfs;
+.tech-stack {
+}
+
+.learning-queue {
 }
 
 .death-to-pineapples {
-}
-
-.uncreative {
-}
-
-.self-ref__humor {
 }
 ```
 
