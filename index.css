@@ -1,0 +1,22 @@
+.about-me {
+  /* Flexible */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.chaos {
+  background-color: orange;
+  color: red;
+  sdsd: sdfs;
+}
+
+.death-to-pineapples {
+}
+
+.uncreative {
+}
+
+.self-ref__humor {
+}
