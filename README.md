@@ -5,24 +5,35 @@
 <img src="hello-world-banner.png" alt="'Hello, World!' Banner">
 
 <!-- "Base"/HTML-related Stack -->
+
 <div style="
-  align: center;
+  img[alt$="-icon"] {
+    width: 45px;
+    height: 45px;
+  }
 ">
-  <!-- VS Code-->
+
+</div>
+
+![vscode-icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg)
+
+<!--
+<div style="
+
+">
+
   <img width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 
-  <!-- Bash -->
   <img width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
 
-  <!-- Git -->
   <img width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
 
-  <!-- Markdown-->
   <img width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 
-  <!-- HTML -->
   <img width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 </div>
+
+-->
 
 ```html
 <h2 class="about-me">About Me</h2>
