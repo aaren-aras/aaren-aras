@@ -1,5 +1,12 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
+<style>
+img {
+  width: inherit;
+  height: inherit;
+}
+</style>
+
 <!-- Custom "Hello, World!" Banner (Made with Canva) -->
 <img src="hello-world-banner.png" alt="'Hello, World!' Banner">
 
