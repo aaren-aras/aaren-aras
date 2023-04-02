@@ -4,8 +4,6 @@
 <!-- Custom "Hello, World!" Banner (Made with Canva) -->
 <img src="hello-world-banner.png" alt="'Hello, World!' Banner">
 
-![VSCode Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg)
-
 <!-- "Base"/HTML-related Stack -->
 <div style="
   align: center;
