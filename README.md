@@ -12,13 +12,13 @@
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
   &nbsp; &nbsp;
 
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   &nbsp; &nbsp;
 
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
   &nbsp; &nbsp;
 
-  <img width="45px" color="white" src="https://d33wubrfki0l68.cloudfront.net/f1f475a6fda1c2c4be4cac04033db5c3293032b4/513a4/assets/images/markdown-mark-white.svg">
+  <img width="45px" color="white" src="https://e7.pngegg.com/pngimages/173/882/png-clipart-logo-markdown-wikimedia-movement-scalable-graphics-brand-markdowns-white-text.png">
   &nbsp; &nbsp;
 </div>
 
