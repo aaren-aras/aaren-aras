@@ -17,10 +17,11 @@
 </ul>
 ```
 
-<div style="display: inline-block; padding: 10px">
+<div style="display: inline-block; margin-right: 10px">
   <img style="width: 45px; height: 45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img style="width: 45px; height: 45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div>
+<br>
 
 ```css
 .about-me {
