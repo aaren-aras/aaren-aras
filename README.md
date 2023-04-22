@@ -4,19 +4,21 @@
 <!-- Custom "Hello, World!" Banner (Made with Canva) -->
 <img src="hello-world-banner-v2.png" alt="'Hello, World!' Banner">
 
-<!-- "Base"/HTML-related Stack: VS Code, Git, HTML, Markdown, Bash -->
-
+<!-- "Base"/HTML-related Stack: VS Code, Git, HTML, Markdown, JSON, Bash -->
 <div align="center">
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   &nbsp; &nbsp;
 
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
   &nbsp; &nbsp;
 
   <img width="57px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   &nbsp; &nbsp;
 
   <img width="59px" color="white" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Antu_text-x-markdown.svg/1024px-Antu_text-x-markdown.svg.png">
+  &nbsp; &nbsp;
+
+  <img width="55px" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/json.png">
   &nbsp; &nbsp;
 
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
@@ -27,27 +29,28 @@
 ```html
 <h2>About Me</h2>
 <ul>
-  <li class="bio">Loves building and breaking stuff in equal measure!</li>
-  <li class="tech-stack">???</li>
-  <li class="learning-queue">???</li>
+  <li class="bio">Enjoys building and breaking in equal measure</li>
+  <li class="tech-stack">Always learning, but prefers personal projects</li>
+  <li class="learning-queue">TypeScript, Python, Vue 3, Flask, MongoDB, ...</li>
   <li class="death-to-pineapples">Despises pineapple on pizza</li>
-
-  <!-- <li class="uncreative">Can't come up with more points</li>
-  <li class="self-ref__humor">
-    Feels obliged to include an "About Me" section
-  </li> -->
 </ul>
 ```
 
-<!-- "Styling"/CSS-related Stack: Draw.io, CSS, Sass -->
+<!-- "Styling"/CSS-related Stack: Draw.io, CSS, Sass, Vuetify -->
 <div align="center">
   <!-- To-DO: Add Draw.io logo (?) -->
+  <img width="55px" src="https://dashboard.snapcraft.io/site_media/appmedia/2019/08/android-chrome-512x512.png">
+  &nbsp; &nbsp;
 
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   &nbsp; &nbsp;
 
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   &nbsp; &nbsp;
+
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg">
+  &nbsp; &nbsp;
+
 </div>
 <br>
 
