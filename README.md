@@ -34,6 +34,7 @@
   <li class="tech-stack">Always learning, but prefers personal projects</li>
   <li class="learning-queue">TypeScript, Vue 3, Python, Flask, MongoDB</li>
   <li class="death-to-pineapples">Despises pineapple on pizza</li>
+  <!-- <li class="self-ref-humor">Feels obliged to include an About Me</li> -->
 </ul>
 ```
 
@@ -55,17 +56,30 @@
 
 ```css
 .bio {
-  /* Open to new opportunities? */
-  /* display: flex; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
 }
 
 .tech-stack {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
 }
 
 .learning-queue {
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
 .death-to-pineapples {
+  background-color: red;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
 }
 ```
 
@@ -83,8 +97,32 @@
 <br>
 
 ```js
-wip!
+const sections = [
+  '.bio',
+  '.tech-stack',
+  '.learning-queue',
+  '.death-to-pineapples',
+];
 
+sections.forEach(section => {
+  const element = document.querySelector(section);
+  element.addEventListener('mouseover', () => {
+    element.style.backgroundColor = getBackgroundColor(section);
+  });
+});
+
+function getBackgroundColor(section) {
+  switch (section) {
+    case '.bio':
+      return 'yellow';
+    case '.tech-stack':
+      return 'lightblue';
+    case '.learning-queue':
+      return 'pink';
+    case '.death-to-pineapples':
+      return 'red';
+  }
+}
 ```
 
 <!-- Miscellaneous Stack: ??? -->
