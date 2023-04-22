@@ -55,29 +55,37 @@
 <br>
 
 ```css
+* {
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
 .bio {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
+  display: block;
+  color: lightgreen;
 }
 
 .tech-stack {
   display: flex !important;
   justify-content: center;
   align-items: center;
-  flex-wrap: wrap;
+  flex-wrap: wrap-reverse;
 }
 
 .learning-queue {
-  list-style: none;
-  padding: 0;
-  margin: 0;
+  list-style: disc;
 }
 
 .death-to-pineapples {
   color: yellow;
   padding: 10px;
+  border: 2px groove orange !important;
   border-radius: 5px;
 }
 ```
