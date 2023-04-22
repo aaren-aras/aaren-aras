@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>aaren-aras / README.md</title>
+  <style>
+    * {
+      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+      padding: 0;
+      margin: 0;
+    }
+
+    h2 {
+      font-size: 32px;
+      font-weight: bold;
+    }
+
+    .tech-stack {
+      display: flex !important;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap-reverse;
+    }
+
+    .learning-queue {
+      list-style: disc;
+    }
+
+    .death-to-pineapples {
+      color: yellow;
+      padding: 10px;
+      border: 2px groove orange !important;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+
+<body>
+  <h2>About Me</h2>
+  <ul>
+    <li class="bio">Enjoys building and breaking in equal measure</li>
+    <li class="tech-stack">Always learning, but prefers personal projects</li>
+    <li class="learning-queue">TypeScript, Vue 3, Python, Flask, MongoDB</li>
+    <li class="death-to-pineapples">Despises pineapple on pizza</li>
+    <!-- <li class="self-ref-humour">Feels obliged to include an About Me</li> -->
+  </ul>
+
+  <script>
+    const sections = [
+      '.bio',
+      '.tech-stack',
+      '.learning-queue',
+      '.death-to-pineapples',
+    ];
+
+    sections.forEach(section => {
+      const sectionElement = document.querySelector(section);
+      sectionElement.addEventListener('mouseover', () => {
+        sectionElement.style.backgroundColor = getBackgroundColour(section);
+      });
+    });
+
+    function getBackgroundColour(section) {
+      switch (section) {
+        case '.bio':
+          return 'green';
+        case '.tech-stack':
+          return 'darkblue';
+        case '.learning-queue':
+          return 'purple';
+        case '.death-to-pineapples':
+          return 'black';
+      }
+    }
+  </script>
+</body>
+
+</html>

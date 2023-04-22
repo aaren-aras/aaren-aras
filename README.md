@@ -34,7 +34,7 @@
   <li class="tech-stack">Always learning, but prefers personal projects</li>
   <li class="learning-queue">TypeScript, Vue 3, Python, Flask, MongoDB</li>
   <li class="death-to-pineapples">Despises pineapple on pizza</li>
-  <!-- <li class="self-ref-humor">Feels obliged to include an About Me</li> -->
+  <!-- <li class="self-ref-humour">Feels obliged to include an About Me</li> -->
 </ul>
 ```
 
@@ -66,11 +66,6 @@ h2 {
   font-weight: bold;
 }
 
-.bio {
-  display: block;
-  color: lightgreen;
-}
-
 .tech-stack {
   display: flex !important;
   justify-content: center;
@@ -92,13 +87,19 @@ h2 {
 
 <!-- "Programming"/JavaScript-related Stack: C++, C#, Python, JavaScript -->
 <div align="center">
-  
-  <!-- TO-DO: Add C++ and C# icons? -->
-  
-  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
   &nbsp; &nbsp;
 
-  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
+  &nbsp; &nbsp;
+
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  &nbsp; &nbsp;
+
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  &nbsp; &nbsp;
+
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   &nbsp; &nbsp;
 </div>
 <br>
@@ -114,11 +115,11 @@ const sections = [
 sections.forEach(section => {
   const sectionElement = document.querySelector(section);
   sectionElement.addEventListener('mouseover', () => {
-    sectionElement.style.backgroundColor = getBackgroundColor(section);
+    sectionElement.style.backgroundColor = getBackgroundColour(section);
   });
 });
 
-function getBackgroundColor(section) {
+function getBackgroundColour(section) {
   switch (section) {
     case '.bio':
       return 'green';
