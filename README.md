@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <!-- Custom "Hello, World!" Banner (Made with Canva) -->
-<img src="hello-world-banner.png" alt="'Hello, World!' Banner">
+<img src="hello-world-banner-v2.png" alt="'Hello, World!' Banner">
 
 <!-- "Base"/HTML-related Stack: VS Code, Git, HTML, Markdown, Bash -->
 <div align="center">
