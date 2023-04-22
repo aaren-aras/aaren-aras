@@ -22,7 +22,7 @@
   <img width="59px" color="white" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Antu_text-x-markdown.svg/1024px-Antu_text-x-markdown.svg.png">
   &nbsp; &nbsp;
 
-  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
+  <img width="53px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
   &nbsp; &nbsp;
 </div>
 <br>
@@ -39,7 +39,7 @@
 
 <!-- "Styling"/CSS-related Stack: Draw.io, CSS, Sass, Vuetify -->
 <div align="center">
-  <img width="60px" style="padding-top: 5px" src="https://dashboard.snapcraft.io/site_media/appmedia/2019/08/android-chrome-512x512.png">
+  <img width="52px" src="https://www3.technologyevaluation.com/getattachment/830bde8d-2d8d-56ff-a20e-a3ad40f6139b/logo.png?source=tw2&ext=.png">
   &nbsp; &nbsp;
 
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
@@ -48,7 +48,7 @@
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   &nbsp; &nbsp;
 
-  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg">
+  <img width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg">
   &nbsp; &nbsp;
 </div>
 <br>
