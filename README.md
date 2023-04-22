@@ -16,10 +16,10 @@
   <img width="57px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   &nbsp; &nbsp;
 
-  <img width="59px" color="white" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Antu_text-x-markdown.svg/1024px-Antu_text-x-markdown.svg.png">
+  <img width="52px" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/json.png">
   &nbsp; &nbsp;
 
-  <img width="52px" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/json.png">
+  <img width="59px" color="white" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Antu_text-x-markdown.svg/1024px-Antu_text-x-markdown.svg.png">
   &nbsp; &nbsp;
 
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
@@ -39,7 +39,7 @@
 
 <!-- "Styling"/CSS-related Stack: Draw.io, CSS, Sass, Vuetify -->
 <div align="center">
-  <img width="55px" style="margin-top: 50px !important" src="https://dashboard.snapcraft.io/site_media/appmedia/2019/08/android-chrome-512x512.png">
+  <img width="60px" src="https://dashboard.snapcraft.io/site_media/appmedia/2019/08/android-chrome-512x512.png">
   &nbsp; &nbsp;
 
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
