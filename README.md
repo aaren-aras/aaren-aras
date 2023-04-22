@@ -5,19 +5,10 @@
 
 ![Hello, World! Banner](hello-world-banner-v2.png)
 
-<!-- <img src="hello-world-banner-v2.png" alt="'Hello, World!' Banner"> -->
-
 <!-- "Base"/HTML-related Stack: VS Code, Git, HTML, Markdown, JSON, Bash -->
-
-![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) {width=50}
-
 <div align="center">
-
-<!-- ![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) {width=50} -->
-
-<!-- <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> -->
-
-&nbsp; &nbsp;
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  &nbsp; &nbsp;
 
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
   &nbsp; &nbsp;
@@ -28,7 +19,7 @@
   <img width="59px" color="white" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Antu_text-x-markdown.svg/1024px-Antu_text-x-markdown.svg.png">
   &nbsp; &nbsp;
 
-  <img width="55px" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/json.png">
+  <img width="52px" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/json.png">
   &nbsp; &nbsp;
 
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
@@ -48,8 +39,7 @@
 
 <!-- "Styling"/CSS-related Stack: Draw.io, CSS, Sass, Vuetify -->
 <div align="center">
-  <!-- To-DO: Add Draw.io logo (?) -->
-  <img width="55px" src="https://dashboard.snapcraft.io/site_media/appmedia/2019/08/android-chrome-512x512.png">
+  <img width="55px" style="margin-top: 2px" src="https://dashboard.snapcraft.io/site_media/appmedia/2019/08/android-chrome-512x512.png">
   &nbsp; &nbsp;
 
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
