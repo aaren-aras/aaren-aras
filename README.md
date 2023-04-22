@@ -39,7 +39,7 @@
 
 <!-- "Styling"/CSS-related Stack: Draw.io, CSS, Sass, Vuetify -->
 <div align="center">
-  <img width="52px" src="https://www3.technologyevaluation.com/getattachment/830bde8d-2d8d-56ff-a20e-a3ad40f6139b/logo.png?source=tw2&ext=.png">
+  <img width="48px" src="https://www3.technologyevaluation.com/getattachment/830bde8d-2d8d-56ff-a20e-a3ad40f6139b/logo.png?source=tw2&ext=.png">
   &nbsp; &nbsp;
 
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
