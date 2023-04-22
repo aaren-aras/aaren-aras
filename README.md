@@ -63,7 +63,7 @@
 }
 
 .tech-stack {
-  display: flex;
+  display: flex !important;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
@@ -76,8 +76,7 @@
 }
 
 .death-to-pineapples {
-  background-color: red;
-  color: white;
+  color: yellow;
   padding: 10px;
   border-radius: 5px;
 }
@@ -105,22 +104,22 @@ const sections = [
 ];
 
 sections.forEach(section => {
-  const element = document.querySelector(section);
-  element.addEventListener('mouseover', () => {
-    element.style.backgroundColor = getBackgroundColor(section);
+  const sectionElement = document.querySelector(section);
+  sectionElement.addEventListener('mouseover', () => {
+    sectionElement.style.backgroundColor = getBackgroundColor(section);
   });
 });
 
 function getBackgroundColor(section) {
   switch (section) {
     case '.bio':
-      return 'yellow';
+      return 'green';
     case '.tech-stack':
-      return 'lightblue';
+      return 'darkblue';
     case '.learning-queue':
-      return 'pink';
+      return 'purple';
     case '.death-to-pineapples':
-      return 'red';
+      return 'black';
   }
 }
 ```
