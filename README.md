@@ -2,12 +2,19 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <!-- Custom "Hello, World!" Banner (Made with Canva) -->
-<img src="hello-world-banner-v2.png" alt="'Hello, World!' Banner">
+
+![Hello, World! Banner](hello-world-banner-v2.png)
+
+<!-- <img src="hello-world-banner-v2.png" alt="'Hello, World!' Banner"> -->
 
 <!-- "Base"/HTML-related Stack: VS Code, Git, HTML, Markdown, JSON, Bash -->
 <div align="center">
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  &nbsp; &nbsp;
+
+![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) { width=50px }
+
+  <!-- <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> -->
+
+&nbsp; &nbsp;
 
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
   &nbsp; &nbsp;
@@ -31,7 +38,7 @@
 <ul>
   <li class="bio">Enjoys building and breaking in equal measure</li>
   <li class="tech-stack">Always learning, but prefers personal projects</li>
-  <li class="learning-queue">TypeScript, Python, Vue 3, Flask, MongoDB, ...</li>
+  <li class="learning-queue">TypeScript, Vue 3, Python, Flask, MongoDB</li>
   <li class="death-to-pineapples">Despises pineapple on pizza</li>
 </ul>
 ```
