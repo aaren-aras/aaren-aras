@@ -39,7 +39,7 @@
 
 <!-- "Styling"/CSS-related Stack: Draw.io, CSS, Sass, Vuetify -->
 <div align="center">
-  <img width="55px" style="margin-top: 50px" src="https://dashboard.snapcraft.io/site_media/appmedia/2019/08/android-chrome-512x512.png">
+  <img width="55px" style="margin-top: 50px !important" src="https://dashboard.snapcraft.io/site_media/appmedia/2019/08/android-chrome-512x512.png">
   &nbsp; &nbsp;
 
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
@@ -50,7 +50,6 @@
 
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg">
   &nbsp; &nbsp;
-
 </div>
 <br>
 
