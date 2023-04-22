@@ -8,11 +8,14 @@
 <!-- <img src="hello-world-banner-v2.png" alt="'Hello, World!' Banner"> -->
 
 <!-- "Base"/HTML-related Stack: VS Code, Git, HTML, Markdown, JSON, Bash -->
+
+![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) {width=50}
+
 <div align="center">
 
-![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) { width=50px }
+<!-- ![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) {width=50} -->
 
-  <!-- <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> -->
+<!-- <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> -->
 
 &nbsp; &nbsp;
 
