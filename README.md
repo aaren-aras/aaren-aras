@@ -5,6 +5,7 @@
 <img src="hello-world-banner-v2.png" alt="'Hello, World!' Banner">
 
 <!-- "Base"/HTML-related Stack: VS Code, Git, HTML, Markdown, Bash -->
+<!--
 <div align="center">
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   &nbsp; &nbsp;
@@ -21,6 +22,13 @@
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
   &nbsp; &nbsp;
 </div>
+-->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,html,markdown,bash" />
+  </a>
+</p>
 
 <br>
 
