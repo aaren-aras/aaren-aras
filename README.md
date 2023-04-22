@@ -87,10 +87,10 @@ h2 {
 
 <!-- "Programming"/JavaScript-related Stack: C++, C#, Python, JavaScript -->
 <div align="center">
-  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   &nbsp; &nbsp;
 
-  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   &nbsp; &nbsp;
 
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
