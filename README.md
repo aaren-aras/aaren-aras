@@ -54,6 +54,7 @@
 </div>
 <br>
 
+<!--
 ```css
 * {
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
@@ -84,6 +85,7 @@ h2 {
   border-radius: 5px;
 }
 ```
+-->
 
 <!-- "Programming"/JavaScript-related Stack: C++, C#, Python, JavaScript -->
 <div align="center">
@@ -104,6 +106,7 @@ h2 {
 </div>
 <br>
 
+<!--
 ```js
 const sections = [
   '.bio',
@@ -132,15 +135,17 @@ function getBackgroundColour(section) {
   }
 }
 ```
-
+-->
 <!-- Miscellaneous Stack: ??? -->
 <div align="center">
 
 </div>
 <br>
 
+
 <!-- Custom Contact Info Banner (Made with Canva) -->
-<img src="contact-info-design.png" alt="Contact Info Banner">
+<!-- <img src="contact-info-design.png" alt="Contact Info Banner"> -->
+
 
 <!-- CSS code explaining more specifics, adding "flavour" and "styling" to simple and bland HTML stuff from top
 style classes from above html!!! -->
