@@ -54,7 +54,7 @@
 </div>
 <br>
 
-<!--
+<!-- Give specifics by adding "flavour"/"styling" to bland HTML info (above)
 ```css
 * {
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
@@ -106,7 +106,7 @@ h2 {
 </div>
 <br>
 
-<!--
+<!-- Explain "functionality"/practicalities" of HTML and CSS info (above)
 ```js
 const sections = [
   '.bio',
@@ -142,16 +142,6 @@ function getBackgroundColour(section) {
 </div>
 <br>
 
-
 <!-- Custom Contact Info Banner (Made with Canva) -->
 <!-- <img src="contact-info-design.png" alt="Contact Info Banner"> -->
 
-
-<!-- CSS code explaining more specifics, adding "flavour" and "styling" to simple and bland HTML stuff from top
-style classes from above html!!! -->
-<!-- JavaScript to explain functionality (projects, future improvements, learning)-->
-<!-- Chaos engineering, custom gifs, open source contributer, professional yak shaver, cloud tech  -->
-<!-- 1. About me (HTML)
-1. Tech stack (CSS)
-2. Learning Queue (JavaScript?)
-3. Contact info (github activity overview design?) -->
