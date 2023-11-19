@@ -1,8 +1,4 @@
-<!-- Credits to Devicon (https://devicon.dev/) for icons used throughout! -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
-<!-- Custom "Hello, World!" Banner (Made with Canva) -->
-
+<!-- Custom "Hello, World!" Banner (Canva) -->
 ![Hello, World! Banner](hello-world-banner-v2.png)
 
 <!-- "Base"/HTML-related Stack: VS Code, Git, HTML, Markdown, JSON, Bash -->
@@ -31,7 +27,7 @@
 <h1>About Me</h1>
 <ul>
   <li class="bio">Enjoys building and breaking in equal measure</li>
-  <li class="tech-stack">Always learning, but prefers personal projects</li>
+  <li class="tech-stack">Always learning, but prefers starting projects</li>
   <li class="learning-queue">TypeScript, Vue 3, Nuxt 3</li>
   <li class="death-to-pineapples">Despises pineapple on pizza</li>
   <!-- <li class="self-ref-humour">Feels obliged to include an About Me</li> -->
@@ -56,17 +52,6 @@
 
 <!-- Give specifics by adding "flavour"/"styling" to bland HTML info (above)
 ```css
-* {
-  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
-  padding: 0;
-  margin: 0;
-}
-
-h2 {
-  font-size: 32px;
-  font-weight: bold;
-}
-
 .tech-stack {
   display: flex !important;
   justify-content: center;
@@ -106,42 +91,8 @@ h2 {
 </div>
 <br>
 
-<!-- Explain "functionality"/practicalities" of HTML and CSS info (above)
-```js
-const sections = [
-  '.bio',
-  '.tech-stack',
-  '.learning-queue',
-  '.death-to-pineapples',
-];
-
-sections.forEach(section => {
-  const sectionElement = document.querySelector(section);
-  sectionElement.addEventListener('mouseover', () => {
-    sectionElement.style.backgroundColor = getBackgroundColour(section);
-  });
-});
-
-function getBackgroundColour(section) {
-  switch (section) {
-    case '.bio':
-      return 'green';
-    case '.tech-stack':
-      return 'darkblue';
-    case '.learning-queue':
-      return 'purple';
-    case '.death-to-pineapples':
-      return 'black';
-  }
-}
-```
--->
-<!-- Miscellaneous Stack: ??? -->
-<div align="center">
-
-</div>
-<br>
-
-<!-- Custom Contact Info Banner (Made with Canva) -->
+<!-- Custom Contact Info Banner (Canva) -->
 <!-- <img src="contact-info-design.png" alt="Contact Info Banner"> -->
 
+<!-- Credits to Devicon for icons (https://devicon.dev/) -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
