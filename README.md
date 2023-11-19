@@ -28,11 +28,11 @@
 <br>
 
 ```html
-<h2>About Me</h2>
+<h1>About Me</h1>
 <ul>
   <li class="bio">Enjoys building and breaking in equal measure</li>
   <li class="tech-stack">Always learning, but prefers personal projects</li>
-  <li class="learning-queue">TypeScript, Vue 3, Python, Flask, MongoDB</li>
+  <li class="learning-queue">TypeScript, Vue 3, Nuxt 3</li>
   <li class="death-to-pineapples">Despises pineapple on pizza</li>
   <!-- <li class="self-ref-humour">Feels obliged to include an About Me</li> -->
 </ul>
