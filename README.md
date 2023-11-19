@@ -1,6 +1,17 @@
 <!-- Custom "Hello, World!" Banner (Canva) -->
 ![Hello, World! Banner](hello-world-banner-v2.png)
 
+```html
+<h1>About Me</h1>
+<ul>
+  <li class="bio">Enjoys building and breaking in equal measure</li>
+  <li class="tech-stack">Always learning, but prefers starting projects</li>
+  <li class="learning-queue">TypeScript, Vue 3, Nuxt 3</li>
+  <li class="death-to-pineapples">Despises pineapple on pizza</li>
+  <!-- <li class="self-ref-humour">Feels obliged to include an About Me</li> -->
+</ul>
+```
+
 <!-- "Base"/HTML-related Stack: VS Code, Git, HTML, Markdown, JSON, Bash -->
 <div align="center">
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
@@ -23,17 +34,6 @@
 </div>
 <br>
 
-```html
-<h1>About Me</h1>
-<ul>
-  <li class="bio">Enjoys building and breaking in equal measure</li>
-  <li class="tech-stack">Always learning, but prefers starting projects</li>
-  <li class="learning-queue">TypeScript, Vue 3, Nuxt 3</li>
-  <li class="death-to-pineapples">Despises pineapple on pizza</li>
-  <!-- <li class="self-ref-humour">Feels obliged to include an About Me</li> -->
-</ul>
-```
-
 <!-- "Styling"/CSS-related Stack: Draw.io, CSS, Sass, Vuetify -->
 <div align="center">
   <img width="48px" src="https://www3.technologyevaluation.com/getattachment/830bde8d-2d8d-56ff-a20e-a3ad40f6139b/logo.png?source=tw2&ext=.png">
@@ -49,28 +49,6 @@
   &nbsp; &nbsp;
 </div>
 <br>
-
-<!-- Give specifics by adding "flavour"/"styling" to bland HTML info (above)
-```css
-.tech-stack {
-  display: flex !important;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap-reverse;
-}
-
-.learning-queue {
-  list-style: disc;
-}
-
-.death-to-pineapples {
-  color: yellow;
-  padding: 10px;
-  border: 2px groove orange !important;
-  border-radius: 5px;
-}
-```
--->
 
 <!-- "Programming"/JavaScript-related Stack: C++, C#, Python, JavaScript -->
 <div align="center">
