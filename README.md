@@ -15,7 +15,7 @@
 
 <div align="center">
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  &nbsp; &nbsp;
+  &nbsp; 
   
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   &nbsp; &nbsp;
@@ -41,10 +41,10 @@
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   &nbsp;
 
-  <img width="55px" src="expressjs_logo.png" />
+  <img height="55px" src="expressjs_logo.png" />
   &nbsp; 
 
-  <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   &nbsp; &nbsp;
 </div>
 <br>
