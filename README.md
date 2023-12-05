@@ -34,13 +34,13 @@
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   &nbsp; &nbsp;
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
   &nbsp; &nbsp;
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
   &nbsp; &nbsp;
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   &nbsp; &nbsp;
 </div>
 <br>
@@ -49,10 +49,10 @@
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   &nbsp; &nbsp;
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
   &nbsp; &nbsp;
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
   &nbsp; &nbsp;
 </div>
 <br>
