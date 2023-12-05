@@ -41,7 +41,7 @@
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   &nbsp; &nbsp;
 
-  <img width="75px" src="express-logo.png" />
+  <img width="95px" src="express-logo.png" />
   &nbsp; &nbsp;
 
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
