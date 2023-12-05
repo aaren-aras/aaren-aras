@@ -12,59 +12,47 @@
 </ul>
 ```
 
-<!-- "Base"/HTML-related Stack: VS Code, Git, HTML, Markdown, JSON, Bash -->
 <div align="center">
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  &nbsp; &nbsp;
-
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-  &nbsp; &nbsp;
-
   <img width="57px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   &nbsp; &nbsp;
-
-  <img width="52px" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/json.png">
-  &nbsp; &nbsp;
-
-  <img width="59px" color="white" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Antu_text-x-markdown.svg/1024px-Antu_text-x-markdown.svg.png">
-  &nbsp; &nbsp;
-
-  <img width="53px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
-  &nbsp; &nbsp;
-</div>
-<br>
-
-<!-- "Styling"/CSS-related Stack: Draw.io, CSS, Sass, Vuetify -->
-<div align="center">
-  <img width="48px" src="https://www3.technologyevaluation.com/getattachment/830bde8d-2d8d-56ff-a20e-a3ad40f6139b/logo.png?source=tw2&ext=.png">
-  &nbsp; &nbsp;
-
+  
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   &nbsp; &nbsp;
-
+  
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  &nbsp; &nbsp;
-
-  <img width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg">
-  &nbsp; &nbsp;
-</div>
-<br>
-
-<!-- "Programming"/JavaScript-related Stack: C++, C#, Python, JavaScript -->
-<div align="center">
-  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  &nbsp; &nbsp;
-
-  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   &nbsp; &nbsp;
 
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   &nbsp; &nbsp;
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  &nbsp; &nbsp;
+</div>
+<br>
+
+<div align="center">
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   &nbsp; &nbsp;
 
-  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
+  &nbsp; &nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  &nbsp; &nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  &nbsp; &nbsp;
+</div>
+<br>
+
+<div align="center">
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  &nbsp; &nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
+  &nbsp; &nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
   &nbsp; &nbsp;
 </div>
 <br>
