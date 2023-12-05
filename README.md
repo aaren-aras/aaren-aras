@@ -14,6 +14,15 @@
 <br>
 
 <div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts" />
+  </a>
+</div>
+
+[![Skill Icons](https://skillicons.dev/icons?i=html,css,sass,js,ts)](https://skillicons.dev)
+
+
+<div align="center">
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   &nbsp; 
   
