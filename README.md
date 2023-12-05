@@ -25,7 +25,7 @@
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   &nbsp; &nbsp;
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   &nbsp; &nbsp;
 </div>
 <br>
@@ -37,7 +37,7 @@
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
   &nbsp; &nbsp;
 
-  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   &nbsp; &nbsp;
 
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
