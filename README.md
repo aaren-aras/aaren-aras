@@ -41,7 +41,7 @@
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   &nbsp; &nbsp;
 
-  <img width="55px" src="express.png" />
+  <img width="75px" src="express-logo.png" />
   &nbsp; &nbsp;
 
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
@@ -50,7 +50,7 @@
 <br>
 
 <div align="center">
-  <img width="55px" src="C++.png">
+  <img width="55px" src="cpp-logo.png">
   &nbsp; &nbsp;
 
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
