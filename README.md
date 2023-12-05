@@ -27,7 +27,6 @@
   &nbsp; &nbsp;
 
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  &nbsp; &nbsp;
 </div>
 <br>
 
@@ -45,19 +44,17 @@
   &nbsp; 
 
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  &nbsp; &nbsp;
 </div>
 <br>
 
 <div align="center">
   <img width="55px" src="cpp-logo.png">
-  &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp;
 
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
-  &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp;
 
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
-  &nbsp; &nbsp;
 </div>
 <br>
 
