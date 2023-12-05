@@ -27,10 +27,7 @@
   &nbsp; &nbsp;
 
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-</div>
-<br>
 
-<div align="center">
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   &nbsp; &nbsp;
 
@@ -44,10 +41,7 @@
   &nbsp; 
 
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-</div>
-<br>
 
-<div align="center">
   <img width="55px" src="cpp-logo.png">
   &nbsp; &nbsp; &nbsp;
 
@@ -55,8 +49,8 @@
   &nbsp; &nbsp; &nbsp;
 
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
+
 </div>
-<br>
 
 <!-- Custom Contact Info Banner (Canva) -->
 <!-- <img src="contact-info-design.png" alt="Contact Info Banner"> -->
