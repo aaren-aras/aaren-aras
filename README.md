@@ -46,7 +46,7 @@
 <br>
 
 <div align="center">
-  <img width="55px" src="https://cdnlogo.com/logo/c_13553.html">
+  <img width="55px" src="C++.png">
   &nbsp; &nbsp;
 
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
