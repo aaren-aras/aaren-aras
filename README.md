@@ -44,7 +44,7 @@
   <img width="55px" src="expressjs_logo.png" />
   &nbsp; 
 
-  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   &nbsp; &nbsp;
 </div>
 <br>
