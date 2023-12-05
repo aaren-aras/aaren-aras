@@ -39,7 +39,7 @@
   &nbsp; &nbsp;
 
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  &nbsp; &nbsp;
+  &nbsp;
 
   <img height="55px" src="expressjs_logo.png" />
   &nbsp; &nbsp;
