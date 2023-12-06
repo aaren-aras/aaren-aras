@@ -38,7 +38,7 @@
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   &nbsp;
 
-  <img height="40px" src="expressjs_logo.png" />
+  <img height="40px" src="express-logo.png" />
 
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   &nbsp; &nbsp;
