@@ -12,10 +12,5 @@
 </ul>
 ```
 
-<!-- Credits to GitHub user `tandpfun` for icons (https://github.com/tandpfun/skill-icons) -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,nuxt,nodejs,express,mongodb,cpp,qt&theme=light">
-</div>
-
-<!-- Credits to Devicon for icons (https://devicon.dev/) -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+| HTML | CSS | Sass | 
+| ---- | --- | ---- |
