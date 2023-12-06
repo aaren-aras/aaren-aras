@@ -1,5 +1,6 @@
 <!-- Custom "Hello, World!" Banner (Canva) -->
 ![Hello, World! Banner](hello-world-banner-v2.png)
+<br>
 
 ```html
 <h1>About Me</h1>
@@ -14,10 +15,10 @@
 <br>
 
 <div align="center">
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   &nbsp; 
   
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   &nbsp; &nbsp;
   
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
