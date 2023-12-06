@@ -14,3 +14,8 @@
 
 | HTML | CSS | Sass | JavaScript | TypeScript | Vue | Nuxt | Express | MongoDB | C++ | Qt | OpenCV |
 | ---- | --- | ---- | ---------- | ---------- | --- | ---- | ------- | ------- | --- | -- | ------ |
+| <i class="fa-brands fa-html5"></i> | --- | ---- | ---------- | ---------- | --- | ---- | ------- | ------- | --- | -- | ------ |
+
+
+<!-- Font Awesome Icons -->
+<script src="https://kit.fontawesome.com/60cf25c4dc.js" crossorigin="anonymous"></script>
