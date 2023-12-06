@@ -16,6 +16,9 @@
 | ---- | --- | ---- | ---------- | ---------- | ------ | ------- | ---------- | ------- | --- | -- | ------ |
 
 <!-- Devicon Icons -->
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<div align="center">
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</div>
+
 
