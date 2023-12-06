@@ -13,6 +13,7 @@
 ```
 <br>
 
+<!--
 <div align="center">
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   &nbsp; 
@@ -51,6 +52,7 @@
 
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
 </div>
+-->
 
 <!-- Custom Contact Info Banner (Canva) -->
 <!-- <img src="contact-info-design.png" alt="Contact Info Banner"> -->
