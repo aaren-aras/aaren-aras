@@ -12,10 +12,5 @@
 </ul>
 ```
 
-| HTML | CSS | Sass | JavaScript | TypeScript | Vue | Nuxt | Express | MongoDB | C++ | Qt | OpenCV |
+| HTML | CSS | Sass | JavaScript | TypeScript | Vue.js | Nuxt.js | Express.js | MongoDB | C++ | Qt | OpenCV |
 | :--- | --- | ---- | ---------- | ---------- | --- | ---- | ------- | ------- | --- | -- | -----: |
-
-
-
-<!-- Font Awesome Icons -->
-<script src="https://kit.fontawesome.com/60cf25c4dc.js" crossorigin="anonymous"></script>
