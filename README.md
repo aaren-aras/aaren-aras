@@ -12,5 +12,5 @@
 </ul>
 ```
 
-| HTML | CSS | Sass | 
-| ---- | --- | ---- |
+| HTML | CSS | Sass | JavaScript | TypeScript | Vue | Nuxt | Express | MongoDB | C++ | Qt | OpenCV |
+| ---- | --- | ---- | ---------- | ---------- | --- | ---- | ------- | ------- | --- | -- | ------ |
