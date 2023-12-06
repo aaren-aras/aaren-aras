@@ -1,5 +1,5 @@
 <!-- Custom "Hello, World!" Banner (Canva) -->
-![Hello, World! Banner](hello-world-banner-v2.png)
+![Hello, World! Banner](hello-world-banner.png)
 
 ```html
 <h1>About Me</h1>
