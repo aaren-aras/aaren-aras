@@ -15,6 +15,7 @@
 | HTML | CSS | Sass | JavaScript | TypeScript | Vue.js | Nuxt.js | Express.js | MongoDB | C++ | Qt | OpenCV |
 | ---- | --- | ---- | ---------- | ---------- | ------ | ------- | ---------- | ------- | --- | -- | ------ |
 |  |  |  |  |  |  |  |  |  |  |  |  |
+<br>
 
 <!-- Devicon Icons -->
 <div align="justify">
