@@ -14,12 +14,7 @@
 
 <!-- Credits to GitHub user `tandpfun` for icons (https://github.com/tandpfun/skill-icons) -->
 <div align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img
-      style="margin-right: 30px" 
-      src="https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,nuxt,nodejs,express,mongodb,cpp,qt&theme=light" 
-    >
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,nuxt,nodejs,express,mongodb,cpp,qt&theme=light">
 </div>
 
 <!-- Credits to Devicon for icons (https://devicon.dev/) -->
