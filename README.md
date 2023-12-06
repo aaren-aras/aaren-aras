@@ -14,6 +14,7 @@
 
 | HTML | CSS | Sass | JavaScript | TypeScript | Vue.js | Nuxt.js | Express.js | MongoDB | C++ | Qt | OpenCV |
 | ---- | --- | ---- | ---------- | ---------- | ------ | ------- | ---------- | ------- | --- | -- | ------ |
+|      |
 <br>
 
 <!-- Devicon and Profile Technology Icons -->
