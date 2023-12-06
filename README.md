@@ -17,18 +17,31 @@
 
 <!-- Devicon Icons -->
 <div align="justify">
+  &nbsp;
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  &nbsp;
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  &nbsp;
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  &nbsp;
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  &nbsp;
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  &nbsp;
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  &nbsp;
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg">
+  &nbsp;
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+  &nbsp;
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  &nbsp;
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  &nbsp;
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg">
+  &nbsp;
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">
+  &nbsp;
 </div>
 
 
