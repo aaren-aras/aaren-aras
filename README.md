@@ -1,6 +1,5 @@
 <!-- Custom "Hello, World!" Banner (Canva) -->
 ![Hello, World! Banner](hello-world-banner-v2.png)
-<br><br>
 
 ```html
 <h1>About Me</h1>
@@ -12,7 +11,6 @@
   <!-- <li class="self-ref-humour">Feels obliged to include an About Me</li> -->
 </ul>
 ```
-<br>
 
 <div align="center">
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
