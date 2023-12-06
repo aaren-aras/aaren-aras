@@ -12,7 +12,7 @@
 </ul>
 ```
 
-| HTML | CSS | Sass | JavaScript | TypeScript | Vue | Nuxt | Node | Express | MongoDB | C++ | Qt | 
+| HTML | CSS | Sass | JavaScript | TypeScript | Vue.js | Nuxt.js | Node.js | Express.js | MongoDB | C++ | Qt | 
 | ---- | --- | ---- | ---------- | ---------- | --- | ---- | ---- | ------- | ------- | --- | -- | 
 |      |
 <br>
