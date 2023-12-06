@@ -14,9 +14,10 @@
 
 | HTML | CSS | Sass | JavaScript | TypeScript | Vue.js | Nuxt.js | Express.js | MongoDB | C++ | Qt | OpenCV |
 | ---- | --- | ---- | ---------- | ---------- | ------ | ------- | ---------- | ------- | --- | -- | ------ |
+| | | | | 
 <br>
 
-<!-- Devicon Icons -->
+<!-- Devicon and Profile Technology Icons -->
 <div align="center">
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   &nbsp; &nbsp;
