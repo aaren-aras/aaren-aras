@@ -8,7 +8,7 @@
   <li class="coding-philo">Always learning, but prefers starting projects 💭</li>
   <li class="learning-queue">TypeScript, Vue 3, Nuxt 3 👁️‍🗨️</li>
   <li class="death-to-pineapples">Despises pineapple on pizza 🤢</li>
-  <!-- <li class="self-ref-humour">Feels obliged to have emojis on here 🤓</li> -->
+  <!-- <li class="self-ref-humour">Feels obliged to include emojis 🤓</li> -->
 </ul>
 ```
 
