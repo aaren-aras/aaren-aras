@@ -12,8 +12,8 @@
 </ul>
 ```
 
-| HTML | CSS | Sass | JavaScript | TypeScript | Vue.js | Node.js | Express.js | Python | C# | Unity | C++ | 
-| ---- | --- | ---- | ---------- | ---------- | ------ | ------- | ---------- | ------ | -- | ----- | --- | 
+| HTML | CSS | Sass | JavaScript | TypeScript | Vue.js | Node.js | Express.js | Python | C# | C++ | 
+| ---- | --- | ---- | ---------- | ---------- | ------ | ------- | ---------- | ------ | -- | --- | 
 |      |
 <br>
 
@@ -39,9 +39,9 @@
   &nbsp; &nbsp; 
   <img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png">
   &nbsp; &nbsp; 
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
-  &nbsp; &nbsp; 
   <img width="45" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png">
+  &nbsp; &nbsp; 
+
 </div>
 
 
