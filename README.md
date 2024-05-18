@@ -12,8 +12,8 @@
 </ul>
 ```
 
-| HTML | CSS | Sass | JavaScript | TypeScript | Vue.js | Nuxt.js | Node.js | Express.js | MongoDB | C# | C++ | 
-| ---- | --- | ---- | ---------- | ---------- | ------ | ------- | ------- | ---------- | ------- | -- | --- | 
+| HTML | CSS | Sass | JavaScript | TypeScript | Vue.js | Node.js | Express.js | MongoDB | Python | C# | C++ | 
+| ---- | --- | ---- | ---------- | ---------- | ------ | ------- | ---------- | ------- | ------ | -- | --- | 
 |      |
 <br>
 
@@ -31,13 +31,13 @@
   &nbsp; &nbsp;
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   &nbsp; &nbsp; 
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg">
-  &nbsp; &nbsp;
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   &nbsp; &nbsp; 
   <img width="45" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png">
   &nbsp; &nbsp; 
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  &nbsp; &nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   &nbsp; &nbsp; 
   <img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png">
   &nbsp; &nbsp; 
