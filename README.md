@@ -12,8 +12,8 @@
 </ul>
 ```
 
-| HTML | CSS | Sass | JavaScript | TypeScript | Vue.js | Astro | Node.js | Express.js | Python | C# | C++ | SQ |
-| ---- | --- | ---- | ---------- | ---------- | ------ | ----- | ------- | ---------- | ------ | -- | --- | -- |
+| HTML | CSS | Sass | JavaScript | TypeScript | Vue.js | Astro | Node.js | Express.js | Python | C# | C++ | S |
+| ---- | --- | ---- | ---------- | ---------- | ------ | ----- | ------- | ---------- | ------ | -- | --- | - |
 |      |
 <br>
 
