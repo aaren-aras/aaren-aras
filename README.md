@@ -17,9 +17,7 @@
 |      |
 <br>
 
-<!-- Devicon and Profile Technology Icons -->
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
+<!-- Skill Icons -->
 <div align="center">
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   &nbsp; &nbsp;
@@ -33,7 +31,7 @@
   &nbsp; &nbsp;
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   &nbsp; &nbsp; 
-  <i size="25" class="devicon-astro-plain colored"></i>
+  <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/397c0300-2e47-464e-81eb-6e991c9255fc">
   &nbsp; &nbsp; 
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   &nbsp; &nbsp; 
