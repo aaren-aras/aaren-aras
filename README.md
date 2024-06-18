@@ -5,7 +5,7 @@
 <h1>About Me</h1>
 <ul>
   <li class="bio">Enjoys building and breaking in equal measure 🦠</li>
-  <li class="learning-queue">TypeScript, Vue 3, Nuxt 3 👁️‍🗨️</li>
+  <li class="learning-queue">TypeScript, Vue 3, Astro 👁️‍🗨️</li>
   <li class="coding-philo">Tutorials are nice but projects are better 💭</li>
   <li class="death-to-pineapples">Despises pineapple on pizza 🤢</li>
   <!-- <li class="self-ref-humour">Feels obliged to include emojis 🤓</li> -->
@@ -41,11 +41,6 @@
   &nbsp; &nbsp; 
   <img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png">
   &nbsp; &nbsp; 
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  &nbsp; &nbsp; 
   <img width="45" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png">
   &nbsp; &nbsp; 
-
 </div>
-
-
