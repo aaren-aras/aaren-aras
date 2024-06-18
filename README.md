@@ -18,6 +18,8 @@
 <br>
 
 <!-- Devicon and Profile Technology Icons -->
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 <div align="center">
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   &nbsp; &nbsp;
@@ -31,7 +33,7 @@
   &nbsp; &nbsp;
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   &nbsp; &nbsp; 
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
+  <i size="25" class="devicon-astro-plain colored"></i>
   &nbsp; &nbsp; 
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   &nbsp; &nbsp; 
