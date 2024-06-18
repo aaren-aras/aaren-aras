@@ -12,8 +12,8 @@
 </ul>
 ```
 
-| HTML | CSS | Sass | JavaScript | TypeScript | Vue.js | Node.js | Express.js | Python | C# | C++ | 
-| ---- | --- | ---- | ---------- | ---------- | ------ | ------- | ---------- | ------ | -- | --- | 
+| HTML | CSS | Sass | JavaScript | TypeScript | Vue.js | Astro | Node.js | Express.js | Python | C# | C++ | 
+| ---- | --- | ---- | ---------- | ---------- | ------ | ----- | ------- | ---------- | ------ | -- | --- | 
 |      |
 <br>
 
@@ -30,6 +30,8 @@
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   &nbsp; &nbsp;
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  &nbsp; &nbsp; 
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
   &nbsp; &nbsp; 
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   &nbsp; &nbsp; 
