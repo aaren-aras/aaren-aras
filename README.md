@@ -12,7 +12,7 @@
 </ul>
 ```
 
-| HTML | CSS | Sass | JavaScript | TypeScript | Vue.js | Astro | Node.js | Express.js | Python | C# | C++ | +++ |
+| HTML | CSS | Sass | JavaScript | TypeScript | Vue.js | Astro | Node.js | Express.js | Python | C# | C++ | SQL |
 | ---- | --- | ---- | ---------- | ---------- | ------ | ----- | ------- | ---------- | ------ | -- | --- | --- |
 |      |
 <br>
