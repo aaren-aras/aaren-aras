@@ -5,9 +5,9 @@
 <h1>About Me</h1>
 <ul>
   <li class="bio">Enjoys building and breaking in equal measure 🦠</li>
-  <li class="learning-queue">TypeScript, Vue 3, Express 👁️‍🗨️</li>
-  <li class="gotta-stop">Can't stop watching Fireship vids 🚀</li>
-  <li class="new-years-reso†ution">Learn how to center a div 🎊</li>
+  <li class="learning-queue">Aspires to become the HTML guru 🧠</li>
+  <li class="addiction">Can't stop watching Fireship vids 🚀</li>
+  <li class="new-years-resolution">Learning how to center divs 🎊</li>
   <!-- <li class="self-ref-humour">Feels obliged to include emojis 🤓</li> -->
 </ul>
 ```
