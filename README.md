@@ -8,7 +8,7 @@
   <li class="learning-queue">Aspires to become the HTML guru 🧠</li>
   <li class="addiction">Can't stop watching Fireship vids 🚀</li>
   <li class="new-years-resolution">Learning how to center divs 🎊</li>
-  <!-- <li class="witty-meta-humour">Contractually obliged to include emojis 🫡</li> -->
+  <!-- <li class="witty-meta-humour">Contractually obligated to include emojis 🫡</li> -->
 </ul>
 ```
 
