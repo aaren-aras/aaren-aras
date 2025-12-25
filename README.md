@@ -12,8 +12,8 @@
 </ul>
 ```
 
-| HTML | CSS | JavaScript | TypeScript | Vue | Python | pandas | TensorFlow | C/C++ | MongoDB | Docker | 
-| ---- | --- | ---------- | ---------- | --- | ------ | ------ | ---------- | ----- | ------- | ------ |
+| HTML | CSS | JavaScript | TypeScript | Vue | Python | pandas | TensorFlow | C | C++ | MongoDB | Docker | 
+| ---- | --- | ---------- | ---------- | --- | ------ | ------ | ---------- | - | --- | ------- | ------ |
 |      |
 <br>
 
