@@ -12,8 +12,8 @@
 </ul>
 ```
 
-| HTML | CSS | Sass | JavaScript | TypeScript | Vue.js | Python | NumPy | pandas | C | C++ | Docker | Godot |
-| ---- | --- | ---- | ---------- | ---------- | ------ | ------ | ----- | ------ | - | --- | ------ | ----- |
+| HTML | CSS | JavaScript | TypeScript | Vue | Python | NumPy | pandas | TensorFlow | C | C++ | MongoDB | Docker | 
+| ---- | --- | ---------- | ---------- | --- | ------ | ----- | ------ | ---------- | - | --- | ------- | ------ |
 |      |
 <br>
 
@@ -23,23 +23,21 @@
   &nbsp; &nbsp;
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   &nbsp; &nbsp;
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  &nbsp; &nbsp;
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   &nbsp; &nbsp; 
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   &nbsp; &nbsp;
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   &nbsp; &nbsp; 
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  &nbsp; &nbsp; 
-  <img width="45" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png">
-  &nbsp; &nbsp; 
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   &nbsp; &nbsp; 
-  <img width="45" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" />
+  <img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" />
   &nbsp; &nbsp; 
-  <img width="45" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png">
+  <img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png">
+  &nbsp; &nbsp; 
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  &nbsp; &nbsp; 
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
   &nbsp; &nbsp; 
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
   &nbsp; &nbsp; 
