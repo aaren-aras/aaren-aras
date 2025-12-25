@@ -12,8 +12,8 @@
 </ul>
 ```
 
-| HTML | CSS | Sass | JavaScript | TypeScript | Vue.js | Node.js | Express.js | Python | C | C++ | Godot |
-| ---- | --- | ---- | ---------- | ---------- | ------ | ------- | ---------- | ------ | - | --- | ----- |
+| HTML | CSS | Sass | JavaScript | TypeScript | Vue.js | Python | NumPy | pandas | C | C++ | Docker | Godot |
+| ---- | --- | ---- | ---------- | ---------- | ------ | ------ | ----- | ------ | - | --- | ------ | ----- |
 |      |
 <br>
 
