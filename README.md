@@ -18,18 +18,12 @@
 <br>
 
 <!-- Skill Icons -->
-<div>
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  &nbsp; &nbsp;
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  &nbsp; &nbsp; 
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  &nbsp; &nbsp; 
-  <img width="45" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png">
-  &nbsp; &nbsp; 
-</div>
+| HTML | CSS | Sass | JavaScript | TypeScript | Vue.js | Node.js | Express.js | Python | C | C++ | Godot |
+| ---- | --- | ---- | ---------- | ---------- | ------ | ------- | ---------- | ------ | - | --- | ----- |
+|      |
+<br>
 
-<!--
+<!-- Skill Icons -->
 <div align="center">
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   &nbsp; &nbsp;
@@ -39,6 +33,8 @@
   &nbsp; &nbsp;
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   &nbsp; &nbsp; 
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  &nbsp; &nbsp;
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   &nbsp; &nbsp; 
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
@@ -55,4 +51,4 @@
   &nbsp; &nbsp; 
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
   &nbsp; &nbsp; 
-</div> -->
+</div>
