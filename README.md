@@ -12,22 +12,22 @@
 </ul>
 ```
 
-| HTML | CSS | JavaScript | TypeScript | Vue | Python | NumPy | pandas | OpenCV | TensorFlow | C | C++ |
+| HTML | CSS | JavaScript | TypeScript | RPi | Python | NumPy | pandas | OpenCV | TensorFlow | C | C++ |
 | ---- | --- | ---------- | ---------- | --- | ------ | ----- | ------ | ------ | ---------- | - | --- | 
 |      |
 <br>
 
 <!-- Skill Icons -->
 <div align="center">
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   &nbsp; &nbsp;
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   &nbsp; &nbsp;
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   &nbsp; &nbsp; 
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   &nbsp; &nbsp;
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
   &nbsp; &nbsp; 
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   &nbsp; &nbsp;
