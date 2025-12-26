@@ -12,8 +12,8 @@
 </ul>
 ```
 
-| HTML | CSS | JavaScript | TypeScript | Vue | Python | pandas | TensorFlow | C | C++ | MongoDB | Docker | 
-| ---- | --- | ---------- | ---------- | --- | ------ | ------ | ---------- | - | --- | ------- | ------ |
+| HTML | CSS | JavaScript | TypeScript | Vue | Python | NumPy | pandas | OpenCV | TensorFlow | C | C++ |
+| ---- | --- | ---------- | ---------- | --- | ------ | ----- | ------ | ------ | ---------- | - | --- | 
 |      |
 <br>
 
@@ -31,16 +31,16 @@
   &nbsp; &nbsp; 
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   &nbsp; &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+  &nbsp; &nbsp;
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+  &nbsp; &nbsp;
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />
   &nbsp; &nbsp;
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
   &nbsp; &nbsp; 
   <img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" />
   &nbsp; &nbsp; 
   <img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png">
-  &nbsp; &nbsp; 
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-  &nbsp; &nbsp; 
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
   &nbsp; &nbsp; 
 </div>
