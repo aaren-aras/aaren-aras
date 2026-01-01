@@ -1,17 +1,6 @@
 <!-- Custom "Hello, World!" Banner (Canva) -->
 ![Hello, World! Banner](hello-world-banner.png)
 
-```html
-<h1>About Me</h1>
-<ul>
-  <li class="bio">Enjoys building and breaking in equal measure 🦠</li>
-  <li class="learning-queue">Aspires to become the HTML guru 🧠</li>
-  <li class="addiction">Can't stop watching Fireship vids 🚀</li>
-  <li class="new-years-resolution">Learning how to center divs 🎊</li>
-  <!-- <li class="witty-meta-humour">Contractually obligated to include emojis 🫡</li> -->
-</ul>
-```
-
 | HTML | CSS | JavaScript | TypeScript | RPi | Python | NumPy | pandas | OpenCV | TensorFlow | C | C++ |
 | ---- | --- | ---------- | ---------- | --- | ------ | ----- | ------ | ------ | ---------- | - | --- | 
 |      |
