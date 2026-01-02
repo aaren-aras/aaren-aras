@@ -1,7 +1,7 @@
 <!-- Custom "Hello, World!" Banner (Canva) -->
 ![Hello, World! Banner](hello-world-banner.png)
 
-| HTML | CSS | JavaScript | TypeScript | RPi | Python | NumPy | pandas | OpenCV | TensorFlow | C | C++ |
+| HTML | CSS | JavaScript | TypeScript | RPi | Python | NumPy | Pandas | OpenCV | TensorFlow | C | C++ |
 | ---- | --- | ---------- | ---------- | --- | ------ | ----- | ------ | ------ | ---------- | - | --- | 
 |      |
 <br>
